@@ -123,7 +123,7 @@ A popular restaurant wants to manage reservations, orders, and billing.
 
 | Relationship | Cardinality | Participation | Notes |
 |--------------|------------|---------------|-------|
-|              |            |               |       |
+|n               |            |               |       |
 |              |            |               |       |
 |              |            |               |       |
 
